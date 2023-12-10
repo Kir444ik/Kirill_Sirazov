@@ -1,1 +1,1 @@
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Homework](https://github.com/Kir444ik/Kirill_Sirazov/blob/main/diagram%20(4).png)
